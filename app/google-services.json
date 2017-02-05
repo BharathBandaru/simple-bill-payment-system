@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "643528547534",
+    "firebase_url": "https://billpaymentapplication-5872d.firebaseio.com",
+    "project_id": "billpaymentapplication-5872d",
+    "storage_bucket": "billpaymentapplication-5872d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643528547534:android:3d249b14a015127b",
+        "android_client_info": {
+          "package_name": "com.jpmcmajorproject.billpaymentapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643528547534-r8gu0jchldksqqd6mnekpr6k3rv20sps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6sgd4jrxcsQdpduqTNlqsFNbfBS2IuOI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643528547534-r8gu0jchldksqqd6mnekpr6k3rv20sps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
