@@ -1,7 +1,9 @@
-package com.jpmcmajorproject.billpaymentapplication;
+package com.jpmcmajorproject.billpaymentapplication.activity;
 
 import android.app.Activity;
 import android.os.Bundle;
+
+import com.jpmcmajorproject.billpaymentapplication.R;
 
 /**
  * Created by Bharath on 05/02/17.

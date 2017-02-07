@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "643528547534",
-    "firebase_url": "https://billpaymentapplication-5872d.firebaseio.com",
-    "project_id": "billpaymentapplication-5872d",
-    "storage_bucket": "billpaymentapplication-5872d.appspot.com"
+    "project_number": "915310090579",
+    "firebase_url": "https://billpaymentapplication-12519.firebaseio.com",
+    "project_id": "billpaymentapplication-12519",
+    "storage_bucket": "billpaymentapplication-12519.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:643528547534:android:3d249b14a015127b",
+        "mobilesdk_app_id": "1:915310090579:android:3d249b14a015127b",
         "android_client_info": {
           "package_name": "com.jpmcmajorproject.billpaymentapplication"
         }
       },
       "oauth_client": [
         {
-          "client_id": "643528547534-r8gu0jchldksqqd6mnekpr6k3rv20sps.apps.googleusercontent.com",
+          "client_id": "915310090579-4caff63f4q6r5uklnsc6bvqegd1r9l29.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD6sgd4jrxcsQdpduqTNlqsFNbfBS2IuOI"
+          "current_key": "AIzaSyAVfWRwkdoa8smH8vYAFsaE7l0e4pKcSvU"
         }
       ],
       "services": {
@@ -32,7 +32,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "643528547534-r8gu0jchldksqqd6mnekpr6k3rv20sps.apps.googleusercontent.com",
+              "client_id": "915310090579-4caff63f4q6r5uklnsc6bvqegd1r9l29.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
