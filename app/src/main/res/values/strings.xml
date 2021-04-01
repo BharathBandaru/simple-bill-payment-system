@@ -2,5 +2,7 @@
     <string name="app_name">Billpaymentapplication</string>
     <string name="scan">SCAN &amp; PAY</string>
     <string name="collect">COLLECT</string>
-
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
 </resources>

@@ -4,16 +4,16 @@
         id="@+id/tab_history"
         icon="@drawable/ic_recents"
         title="History"
-        barColorWhenSelected="#530000" />
+        barColorWhenSelected="#7B1FA2" />
     <tab
         id="@+id/tab_home"
-        icon="@drawable/ic_favorites"
+        icon="@drawable/ic_home_black_24dp"
         title="Home"
         barColorWhenSelected="@color/colorAccent" />
     <tab
         id="@+id/tab_settings"
-        icon="@drawable/ic_nearby"
+        icon="@drawable/ic_settings_white_24dp"
         title="Settings"
-        barColorWhenSelected="#530000" />
+        barColorWhenSelected="#FF5252" />
 
 </tabs>
